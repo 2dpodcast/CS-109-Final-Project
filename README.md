@@ -1,9 +1,9 @@
 CS-109-Final-Project
 ====================
 
-Claudio Rosenberg, Amy Mir, Corey Crowley <br>
-Computer Science 109 - Statistics 121 | Fall 2013 <br>
+Harvard University | Computer Science 109 & Statistics 121 | Fall 2013 <br>
 Final Project IPython Process Notebook | Text Mining <br>
+Claudio Rosenberg, Amy Mir, Corey Crowley <br>
 
 
 <center><b>Classifying Stack Overflow Queries </b></center>
