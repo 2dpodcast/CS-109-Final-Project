@@ -6,7 +6,7 @@ Final Project IPython Process Notebook | Text Mining <br>
 Claudio Rosenberg, Amy Mir, Corey Crowley <br>
 
 
-<center><b>Classifying Stack Overflow Queries </b></center>
+<center><b>          Classifying Stack Overflow Queries </b></center>
 
 
 <p>
