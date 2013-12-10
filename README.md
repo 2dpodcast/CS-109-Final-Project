@@ -6,11 +6,8 @@ Computer Science 109 - Statistics 121 | Fall 2013 <br>
 Final Project IPython Process Notebook | Text Mining <br>
 
 
-<center>
-<b>Classifying Stack Overflow Queries </b>
-</center>
+<center><b>Classifying Stack Overflow Queries </b></center>
 
-<br>
 
 <p>
 See brief summary video at: <a href="http://youtu.be/FQ9_t87ik60">YouTube</a>
