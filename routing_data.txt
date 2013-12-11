@@ -1,0 +1,7 @@
+Sysadmin Department => mysql, sql-server
+Developer Department => python, c++, winforms, .net, sql, java, tex
+Windows Department => windows, windows-7, microsoft-office-2008
+Linux Department => apache, ubuntu, linux, fedora
+Web-Design Department => css, html
+Science Department => probability-theory
+Virtualization Department => vmware, vbox, virtualization
