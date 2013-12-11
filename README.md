@@ -11,7 +11,7 @@ IPython Notebook | Final Data Science Project | Text Mining
 Claudio Rosenberg | Amy Mir | Corey Crowley 
 
 
-
+<br>
 
 <p>
 See brief summary video on: <a href="http://www.youtube.com/watch?v=FQ9_t87ik60&feature=youtu.be">YouTube</a>
