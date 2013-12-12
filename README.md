@@ -19,7 +19,7 @@ See brief summary video: <a href="http://www.youtube.com/watch?v=FQ9_t87ik60&fea
 
 
 <p>
-See complete documented process notebook: <a href="http://nbviewer.ipython.org/github/GalaxyThinker/CS-109-Final-Project/blob/master/final_project/CS109FinalProject.ipynb">NBViewer</a>
+See fully documented notebook: <a href="http://nbviewer.ipython.org/github/GalaxyThinker/CS-109-Final-Project/blob/master/final_project/CS109FinalProject.ipynb">NBViewer</a>
 </p>
 
 
