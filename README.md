@@ -24,5 +24,5 @@ See complete documented process notebook at: <a href="http://nbviewer.ipython.or
 
 
 <p>
-See also project website at: <a href="http://cs-109-final-project.webnode.com/">Webnode</a>
+See also project website on: <a href="http://cs-109-final-project.webnode.com/">Webnode</a>
 </p>
